@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\DFS\bin\Debug\DFS.exe.config
+C:\Users\Wiz\Desktop\DFS\bin\Debug\DFS.exe
+C:\Users\Wiz\Desktop\DFS\bin\Debug\DFS.pdb
+C:\Users\Wiz\Desktop\DFS\obj\Debug\DFS.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\DFS\obj\Debug\DFS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\DFS\obj\Debug\DFS.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\DFS\obj\Debug\DFS.exe
+C:\Users\Wiz\Desktop\DFS\obj\Debug\DFS.pdb
